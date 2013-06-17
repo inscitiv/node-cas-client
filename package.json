@@ -1,6 +1,18 @@
 {
   "name": "cas-client",
   "version": "0.1.0",
+  "description": "An HTTP CAS client library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inscitiv/node-cas-client.git"
+  },
+  "contributors": [
+    {
+      "name": "Kevin Gilpin",
+      "email": "kgilpin@gmail.com"
+    }
+  ],
+  "homepage": "https://github.com/inscitiv/node-cas-client",
   "main": "./lib/cas",
   "dependencies": {
     "restler": "git://github.com/berryboy/restler#master",
