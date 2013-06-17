@@ -1,0 +1,15 @@
+{
+  "name": "cas-client",
+  "version": "0.1.0",
+  "main": "./lib/cas",
+  "dependencies": {
+    "restler": "git://github.com/berryboy/restler#master",
+    "winston": "latest",
+    "async": "latest",
+    "underscore": "latest",
+    "xml2json": "latest"
+  },
+  "devDependencies": {
+    "gently": "latest"
+  }
+}
