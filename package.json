@@ -1,6 +1,6 @@
 {
   "name": "cas-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An HTTP CAS client library",
   "repository": {
     "type": "git",
